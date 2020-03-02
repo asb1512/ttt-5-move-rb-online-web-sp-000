@@ -12,4 +12,6 @@ def input_to_index(user_input)
   return move_ready
 end
 
-define move(display_board, input_to_index, character = "X")
+def move(display_board, input_to_index, character = "X")
+  
+end
